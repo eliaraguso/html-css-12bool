@@ -1,9 +1,9 @@
 [class*="col"] {
     background-color: #006cfa;
     border: 1px solid white;
-    height: 50px;
+    height: 40px;
     text-align: center;
-    line-height: 50px;
+    line-height: 40px;
     color: white;
     align-items: center;
     justify-content: center;
@@ -21,7 +21,7 @@
 }
 
 [class~=padding] {
-    padding: 20px;
+    padding: 10px;
 }
 
 .height-auto {
