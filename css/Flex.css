@@ -19,6 +19,10 @@
     flex-wrap: wrap;
 }
 
+.section1 {
+    margin-bottom: 20px;
+}
+
 /* -------------Flex-basis-------------- */
 .col-xs-1 {
 flex-basis: calc((100% / 12) * 1);
