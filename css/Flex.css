@@ -1,14 +1,14 @@
-/* Reset */
+/* --------------Reset------------------- */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Debug */
+/* ----------------Debug-------------- */
 
 
-/* Framework */
+/*------------- Framework------------ */
 .container-fluid {
     width: 100%;
     margin: 0 auto;
@@ -17,10 +17,10 @@
 .row {
     display: flex;
     flex-wrap: wrap;
-    
+
 }
 
-/* Flex-basis */
+/* -------------Flex-basis-------------- */
 .col-xs-1 {
     flex-basis: calc((100% / 12) * 1);
 }
