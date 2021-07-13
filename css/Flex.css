@@ -98,8 +98,3 @@ margin-left: calc((100% / 12) * 2);
 .col-xs-offset-12 {
     margin-left: calc((100% / 12) * 12);
 }
-
-/* Align */
-.space-between {
-    justify-content: space-between;
-}
